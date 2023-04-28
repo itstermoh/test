@@ -6,9 +6,9 @@ if not _G.keydone then
 
   game.Players.LocalPlayer:Kick("Use the main link")
 
-end
-
+else
 -- Insert the code for script2.lua here
 
 print("Hello from script2.lua")
+  end
 
