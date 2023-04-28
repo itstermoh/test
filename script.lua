@@ -10,6 +10,8 @@ elseif
 -- Insert the code for script2.lua here
 _G.key == "hello" then
 print("Hello from script2.lua")
+else
+print("invalid key")
   end
 
 -- Get the key from the URL query string
