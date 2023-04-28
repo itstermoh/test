@@ -10,7 +10,7 @@ function load_script2()
 
   -- Load script2
 
-  local script2 = loadstring(game:HttpGet(""))()
+  local script2 = loadstring(game:HttpGet("https://raw.githubusercontent.com/itstermoh/test/main/script.lua"))()
 
   if script2 then
 
